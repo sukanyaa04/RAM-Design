@@ -1,0 +1,13 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Pendyala Venkata Subba Sukanya
+
+Task number: 1
+
+INTERN ID: CT06DF1771
+
+DOMAIN: VLSI
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
